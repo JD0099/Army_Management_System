@@ -14,4 +14,4 @@
 
 ## 디자인 패턴
 #### Strategy Pattern
-![image](https://user-images.githubusercontent.com/23469797/30840069-363587ee-a2b0-11e7-890e-d16b68ca96e1.png)
+![image](https://user-images.githubusercontent.com/23469797/30840069-363587ee-a2b0-11e7-890e-d16b68ca96e1.png) <br/>
