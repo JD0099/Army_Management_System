@@ -14,16 +14,16 @@
 
 ## 디자인 패턴
 #### Strategy Pattern
-![image](https://user-images.githubusercontent.com/23469797/30840069-363587ee-a2b0-11e7-890e-d16b68ca96e1.png) <br/>
+![image](https://user-images.githubusercontent.com/23469797/30840069-363587ee-a2b0-11e7-890e-d16b68ca96e1.png) <br/><br/>
 
 #### Decorator Pattern
-![image](https://user-images.githubusercontent.com/23469797/30840148-9c32e866-a2b0-11e7-9976-82f3f628b69a.png) <br/>
+![image](https://user-images.githubusercontent.com/23469797/30840148-9c32e866-a2b0-11e7-9976-82f3f628b69a.png) <br/><br/>
 
 #### Command Pattern
-![image](https://user-images.githubusercontent.com/23469797/30840166-b5591298-a2b0-11e7-8043-6da40bf13971.png) <br/>
+![image](https://user-images.githubusercontent.com/23469797/30840166-b5591298-a2b0-11e7-8043-6da40bf13971.png) <br/><br/>
 
 #### State Pattern
-![image](https://user-images.githubusercontent.com/23469797/30840176-cd892484-a2b0-11e7-91d8-a145fe05fa31.png) <br/>
+![image](https://user-images.githubusercontent.com/23469797/30840176-cd892484-a2b0-11e7-91d8-a145fe05fa31.png) <br/><br/>
 
 #### Observer Pattern
 ![image](https://user-images.githubusercontent.com/23469797/30840211-f0972552-a2b0-11e7-8171-66690b9a3612.png)
