@@ -13,3 +13,4 @@
 * 지시사항 관리
 
 ## 디자인 패턴
+#### Strategy Pattern
